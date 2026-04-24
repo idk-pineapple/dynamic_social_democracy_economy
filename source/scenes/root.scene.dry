@@ -212,7 +212,30 @@ Q.nsdap_banned = 0;
 Q.coup_progress = 0;
 Q.capital_strike_progress = 0;
 
-Q.budget = 4;
+// econ rework
+// Tax income defined as tax mult * gnp * (1-split)
+Q.gnp = 100;
+Q.budget = 0;
+Q.revenue = 0;
+Q.income_tax = 29;
+Q.corporation_tax = 5.5;
+Q.income_tax_split = 0.75;
+Q.sales_tax = 10.5;
+Q.sales_tax_split = 0.3;
+Q.tariff_budget = 12;
+Q.misc_tax = 16;
+Q.misc_tax_split = 0.3;
+Q.mint = 2;
+
+Q.expenditure = 0;
+Q.reichswehr_exp = 585;
+Q.welfare_exp = 715;
+Q.misc_exp = 1611;
+Q.pensions_exp = 1780;
+Q.reparations_exp = 1227;
+Q.national_debt = 7890;
+Q.interest_rate = 0.06;
+
 
 // Proportion of different social groups
 // source: https://surface.syr.edu/cgi/viewcontent.cgi?filename=3&article=1016&context=books&type=additional page 45, table 3.4 - using 1925 figures

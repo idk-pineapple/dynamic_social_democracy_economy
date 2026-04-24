@@ -1,0 +1,27 @@
+// in millions Reichsmark:
+Administrative Revenue: 295
+TAXES
+Income Tax: 2900 - Transferred to state: 2175
+Corporation Tax: 550 - Transferred to states: 412
+Wealth: 520  
+Sales: 1050 - Transferred to states: 315
+Misc: 1045 - Transferred to states: 315
+Tariffs: 1200
+Misc. Excise: 1602
+Minting: 175
+TOTAL: 9337
+SENT TO STATES: 3217
+AFTER: 6120
+
+EXPENDITURE:
+Reichswehr: 585
+Pensions: 1780
+Interest: 485
+Reparations: 1227
+Welfare: 715
+Misc Admin: 1611
+TOTAL: 5966
+
+NET SURPLUS: 154
+
+National Debt: 7890 ~ 6% int. rate
