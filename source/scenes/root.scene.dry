@@ -236,6 +236,9 @@ Q.reparations_exp = 1227;
 Q.national_debt = 7890;
 Q.interest_rate = 0.06;
 
+// Econ additions:
+Q.reichsbank_chair = "Hjalmar Schacht" // options: Schacht(historical, reactionary), Luther (historical, moderate liberal), Melchior (left-liberal, available if in Weimar govt when Schacht resigns), State-controlled (if Bank law amended)
+
 
 // Proportion of different social groups
 // source: https://surface.syr.edu/cgi/viewcontent.cgi?filename=3&article=1016&context=books&type=additional page 45, table 3.4 - using 1925 figures
